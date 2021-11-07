@@ -3,7 +3,9 @@
 
 
 
-int main () {
+int
+main ()
+{
   char c2 = dumbencrypt ('A');
   int sum = add (55, 25);
 
